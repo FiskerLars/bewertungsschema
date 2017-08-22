@@ -1,0 +1,3 @@
+## Bewertungsschema
+
+Bewertungsbogen für Seminare, Hausarbeiten, ...
